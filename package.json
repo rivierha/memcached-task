@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "function-rate-limit": "^1.1.0",
     "memcached": "^2.2.2",
     "mongoose": "^5.9.15"
